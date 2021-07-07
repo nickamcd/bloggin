@@ -17,3 +17,4 @@ Backend:
 
 - Python 3.9
 - Django 3.2.5
+- DjangoRESTFramework 3.12.4
