@@ -7,6 +7,7 @@ This is a basic fullstack blog application made using Django and React.
 - [General info](#general-info)
 - [Technologies](#technologies)
 - [Wireframe](#wireframe)
+- [Layout Prototype](#layout-prototype)
 
 ## General info
 
@@ -22,14 +23,18 @@ Backend:
 
 ## Wireframe
 
-Home Page
+#### Home Page
 
 ![alt text](images/Bloggin-Wireframe-Home-Page.jpg)
 
-Profile Page
+#### Profile Page
 
 ![alt text](images/Bloggin-Wireframe-Profile-Page.jpg)
 
-Draft Page
+#### Draft Page
 
 ![alt text](images/Bloggin-Wireframe-Draft-Page.jpg)
+
+## Layout Prototype
+
+![alt text](images/BlogginHome.jpg)
